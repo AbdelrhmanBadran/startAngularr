@@ -1,0 +1,13 @@
+footer{
+    background-color: #2C3E50;
+}
+.copy{
+    background: #1A252F;
+}
+i{
+    transition: 0.5s background;
+    cursor: pointer;
+}
+i:hover{
+    background-color: #ffffff4e;
+}
